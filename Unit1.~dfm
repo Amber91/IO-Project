@@ -15,10 +15,10 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 13
   object Label1: TLabel
-    Left = 56
-    Top = 88
-    Width = 769
-    Height = 46
+    Left = 72
+    Top = 160
+    Width = 825
+    Height = 241
     Caption = 'KALKULATOR WYTRZYMA'#321'OSCI STOPU'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
