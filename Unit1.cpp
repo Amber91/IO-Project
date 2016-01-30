@@ -14,7 +14,7 @@
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.dfm"
-TForm1 *Form1;
+TForm1 *Form1
 
 
 
